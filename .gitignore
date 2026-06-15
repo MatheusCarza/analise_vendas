@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Outputs gerados (podem ser reproduzidos rodando os scripts)
+outputs/
