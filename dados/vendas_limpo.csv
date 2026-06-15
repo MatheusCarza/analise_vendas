@@ -1,0 +1,101 @@
+id_venda,data_venda,produto,categoria,quantidade,preco_unitario,vendedor,regiao,status
+1,2024-01-03,Notebook,Eletrônicos,1,3500.0,Carlos Silva,Sudeste,concluída
+2,2024-01-05,Mouse,Periféricos,2,85.5,Ana Lima,Sul,concluída
+3,2024-01-08,Teclado,Periféricos,1,220.0,João Costa,Nordeste,concluída
+4,2024-01-09,Monitor,Eletrônicos,1,1200.0,Carlos Silva,Sudeste,concluída
+5,2024-01-11,Notebook,Eletrônicos,2,3500.0,Não informado,Sul,concluída
+6,2024-01-12,Cadeira Gamer,Móveis,1,890.0,Ana Lima,Sudeste,cancelada
+7,2024-01-15,Mouse,Periféricos,3,85.5,Pedro Rocha,Centro-Oeste,concluída
+8,2024-01-18,Teclado,Periféricos,2,220.0,Carlos Silva,Nordeste,pendente
+9,2024-01-20,Monitor,Eletrônicos,1,1200.0,João Costa,Sul,concluída
+10,2024-01-22,Notebook,Eletrônicos,1,3500.0,Ana Lima,Sudeste,concluída
+11,2024-01-25,Cadeira Gamer,Móveis,2,890.0,Pedro Rocha,Sul,concluída
+12,2024-01-28,Webcam,Periféricos,1,350.0,Não informado,Centro-Oeste,concluída
+13,2024-01-30,Mouse,Periféricos,5,85.5,Carlos Silva,Nordeste,concluída
+14,2024-02-01,Notebook,Eletrônicos,1,3500.0,João Costa,Sudeste,pendente
+15,2024-02-03,Monitor,Eletrônicos,2,1200.0,Ana Lima,Sul,concluída
+16,2024-02-05,Teclado,Periféricos,1,220.0,Pedro Rocha,Nordeste,concluída
+17,2024-02-07,Webcam,Periféricos,2,350.0,Carlos Silva,Sudeste,concluída
+18,2024-02-10,Cadeira Gamer,Móveis,1,890.0,Não informado,Sul,cancelada
+19,2024-02-12,Notebook,Eletrônicos,3,3500.0,João Costa,Centro-Oeste,concluída
+20,2024-02-14,Mouse,Periféricos,3,85.5,Ana Lima,Nordeste,concluída
+21,2024-02-17,Monitor,Eletrônicos,1,1200.0,Pedro Rocha,Sudeste,concluída
+22,2024-02-20,Teclado,Periféricos,4,220.0,Carlos Silva,Sul,concluída
+23,2024-02-22,Webcam,Periféricos,1,350.0,João Costa,Nordeste,concluída
+24,2024-02-25,Cadeira Gamer,Móveis,1,890.0,Ana Lima,Sudeste,pendente
+25,2024-02-27,Notebook,Eletrônicos,1,3500.0,Não informado,Sul,concluída
+26,2024-03-01,Teclado,Periféricos,2,220.0,Carlos Silva,Centro-Oeste,concluída
+27,2024-03-04,Monitor,Eletrônicos,1,1200.0,Pedro Rocha,Nordeste,concluída
+28,2024-03-06,Mouse,Periféricos,3,85.5,João Costa,Sudeste,concluída
+29,2024-03-09,Notebook,Eletrônicos,1,3500.0,Ana Lima,Sul,cancelada
+30,2024-03-12,Webcam,Periféricos,2,350.0,Carlos Silva,Nordeste,concluída
+31,2024-03-14,Cadeira Gamer,Móveis,1,890.0,Pedro Rocha,Sudeste,concluída
+32,2024-03-17,Monitor,Eletrônicos,1,1200.0,Não informado,Centro-Oeste,pendente
+33,2024-03-19,Teclado,Periféricos,1,220.0,João Costa,Sul,concluída
+34,2024-03-22,Notebook,Eletrônicos,2,3500.0,Ana Lima,Nordeste,concluída
+35,2024-03-25,Mouse,Periféricos,4,85.5,Carlos Silva,Sudeste,concluída
+36,2024-03-28,Webcam,Periféricos,1,350.0,Pedro Rocha,Sul,concluída
+37,2024-03-30,Cadeira Gamer,Móveis,2,890.0,João Costa,Centro-Oeste,concluída
+38,2024-04-02,Monitor,Eletrônicos,1,1200.0,Não informado,Nordeste,concluída
+39,2024-04-05,Teclado,Periféricos,3,220.0,Carlos Silva,Sudeste,concluída
+40,2024-04-07,Notebook,Eletrônicos,1,3500.0,Ana Lima,Sul,pendente
+41,2024-04-10,Mouse,Periféricos,2,85.5,Pedro Rocha,Nordeste,concluída
+42,2024-04-13,Webcam,Periféricos,1,350.0,João Costa,Sudeste,concluída
+43,2024-04-16,Notebook,Eletrônicos,1,3500.0,Carlos Silva,Sul,concluída
+44,2024-04-19,Cadeira Gamer,Móveis,1,890.0,Ana Lima,Centro-Oeste,cancelada
+45,2024-04-22,Teclado,Periféricos,2,220.0,Não informado,Nordeste,concluída
+46,2024-04-25,Monitor,Eletrônicos,1,1200.0,Pedro Rocha,Sudeste,concluída
+47,2024-04-28,Webcam,Periféricos,3,350.0,João Costa,Sul,concluída
+48,2024-04-30,Mouse,Periféricos,3,85.5,Carlos Silva,Nordeste,concluída
+49,2024-05-03,Notebook,Eletrônicos,2,3500.0,Ana Lima,Sudeste,concluída
+50,2024-05-06,Teclado,Periféricos,1,220.0,Pedro Rocha,Centro-Oeste,concluída
+51,2024-05-09,Cadeira Gamer,Móveis,1,890.0,João Costa,Sul,concluída
+52,2024-05-12,Monitor,Eletrônicos,2,1200.0,Não informado,Nordeste,concluída
+53,2024-05-15,Mouse,Periféricos,5,85.5,Carlos Silva,Sudeste,concluída
+54,2024-05-18,Webcam,Periféricos,1,350.0,Ana Lima,Sul,pendente
+55,2024-05-21,Notebook,Eletrônicos,1,3500.0,Pedro Rocha,Centro-Oeste,concluída
+56,2024-05-24,Teclado,Periféricos,3,220.0,João Costa,Nordeste,concluída
+57,2024-05-27,Cadeira Gamer,Móveis,1,890.0,Carlos Silva,Sudeste,cancelada
+58,2024-05-30,Monitor,Eletrônicos,2,1200.0,Ana Lima,Sul,concluída
+59,2024-06-02,Mouse,Periféricos,3,85.5,Não informado,Centro-Oeste,concluída
+60,2024-06-05,Notebook,Eletrônicos,1,3500.0,Pedro Rocha,Nordeste,concluída
+61,2024-06-08,Webcam,Periféricos,2,350.0,João Costa,Sudeste,concluída
+62,2024-06-11,Teclado,Periféricos,4,220.0,Carlos Silva,Sul,concluída
+63,2024-06-14,Cadeira Gamer,Móveis,1,890.0,Ana Lima,Nordeste,pendente
+64,2024-06-17,Monitor,Eletrônicos,1,1200.0,Pedro Rocha,Sudeste,concluída
+65,2024-06-20,Notebook,Eletrônicos,3,3500.0,João Costa,Sul,concluída
+66,2024-06-23,Webcam,Periféricos,1,350.0,Não informado,Centro-Oeste,concluída
+67,2024-06-26,Mouse,Periféricos,2,85.5,Carlos Silva,Nordeste,concluída
+68,2024-06-29,Teclado,Periféricos,2,220.0,Ana Lima,Sudeste,concluída
+69,2024-07-02,Cadeira Gamer,Móveis,1,890.0,Pedro Rocha,Sul,concluída
+70,2024-07-05,Notebook,Eletrônicos,2,3500.0,João Costa,Nordeste,concluída
+71,2024-07-08,Monitor,Eletrônicos,1,1200.0,Carlos Silva,Sudeste,cancelada
+72,2024-07-11,Webcam,Periféricos,3,350.0,Não informado,Sul,concluída
+73,2024-07-14,Mouse,Periféricos,3,85.5,Ana Lima,Centro-Oeste,concluída
+74,2024-07-17,Teclado,Periféricos,2,220.0,Pedro Rocha,Nordeste,concluída
+75,2024-07-20,Notebook,Eletrônicos,1,3500.0,João Costa,Sudeste,concluída
+76,2024-07-23,Monitor,Eletrônicos,2,1200.0,Carlos Silva,Sul,concluída
+77,2024-07-26,Cadeira Gamer,Móveis,1,890.0,Ana Lima,Nordeste,pendente
+78,2024-07-29,Webcam,Periféricos,2,350.0,Pedro Rocha,Sudeste,concluída
+79,2024-08-01,Mouse,Periféricos,4,85.5,João Costa,Sul,concluída
+80,2024-08-04,Notebook,Eletrônicos,1,3500.0,Não informado,Centro-Oeste,concluída
+81,2024-08-07,Teclado,Periféricos,2,220.0,Carlos Silva,Nordeste,concluída
+82,2024-08-10,Monitor,Eletrônicos,1,1200.0,Ana Lima,Sudeste,concluída
+83,2024-08-13,Webcam,Periféricos,2,350.0,Pedro Rocha,Sul,concluída
+84,2024-08-16,Cadeira Gamer,Móveis,3,890.0,João Costa,Nordeste,concluída
+85,2024-08-19,Notebook,Eletrônicos,1,3500.0,Carlos Silva,Sudeste,cancelada
+86,2024-08-22,Mouse,Periféricos,2,85.5,Não informado,Sul,concluída
+87,2024-08-25,Monitor,Eletrônicos,1,1200.0,Ana Lima,Centro-Oeste,concluída
+88,2024-08-28,Teclado,Periféricos,1,220.0,Pedro Rocha,Nordeste,concluída
+89,2024-08-31,Cadeira Gamer,Móveis,2,890.0,João Costa,Sudeste,concluída
+90,2024-09-03,Notebook,Eletrônicos,1,3500.0,Carlos Silva,Sul,concluída
+91,2024-09-06,Webcam,Periféricos,3,350.0,Ana Lima,Nordeste,concluída
+92,2024-09-09,Mouse,Periféricos,3,85.5,Pedro Rocha,Sudeste,pendente
+93,2024-09-12,Monitor,Eletrônicos,2,1200.0,João Costa,Sul,concluída
+94,2024-09-15,Teclado,Periféricos,1,220.0,Não informado,Centro-Oeste,concluída
+95,2024-09-18,Notebook,Eletrônicos,1,3500.0,Carlos Silva,Nordeste,concluída
+96,2024-09-21,Cadeira Gamer,Móveis,1,890.0,Ana Lima,Sudeste,concluída
+97,2024-09-24,Webcam,Periféricos,2,350.0,Pedro Rocha,Sul,concluída
+98,2024-09-27,Mouse,Periféricos,3,85.5,João Costa,Nordeste,concluída
+99,2024-09-30,Notebook,Eletrônicos,1,3500.0,Carlos Silva,Sudeste,concluída
+100,2024-10-03,Monitor,Eletrônicos,1,1200.0,Não informado,Sul,pendente
