@@ -36,10 +36,16 @@ analise_vendas/
 | pandas | Carregar, limpar e manipular os dados |
 | matplotlib / seaborn | Gráficos |
 | jupyter | Notebooks interativos |
+| streamlit | Dashboard interativo web |
 
 Instalar tudo de uma vez:
 ```bash
-pip install pandas matplotlib seaborn jupyter
+pip install pandas matplotlib seaborn jupyter streamlit
+```
+
+Para rodar o dashboard:
+```bash
+streamlit run scripts/dashboard.py
 ```
 
 ## Padrões de código
